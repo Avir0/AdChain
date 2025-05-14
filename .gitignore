@@ -32,7 +32,7 @@ pnpm-debug.log*
 Thumbs.db
 
 # Optional: lock files (if you're using one package manager)
-# Uncomment the ones you don't use if you want to keep it clean
-# package-lock.json
-# yarn.lock
-# pnpm-lock.yaml
+Uncomment the ones you don't use if you want to keep it clean
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
